@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 Architect Personality (INTJ)
+- 😄 Still a Computer Engineering Student
+- 🌱 my_skills = {'python':'django', 'PHP': 'laravel', 'javascript':'react'}
 
 ## ⚡ Github stats
 
